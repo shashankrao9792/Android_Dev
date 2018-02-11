@@ -1,3 +1,4 @@
+#Notes
 The <Button> element is used to add a button.                                                                                               
 The <Spinner> element is used to add a spinner, which is a drop-down list of values.                                                       
 All GUI components are types of view. They inherit from the Android View class.                                                             
