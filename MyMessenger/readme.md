@@ -1,6 +1,6 @@
-A task is two or more activities chained together.
-The <EditText> element defines an editable text field for entering text. It inherits from the Android View class.
-You can add a new activity in Android Studio by choosing File → New... → Activity.
+A task is two or more activities chained together.											   
+The <EditText> element defines an editable text field for entering text. It inherits from the Android View class.			   
+You can add a new activity in Android Studio by choosing File → New... → Activity.							   
 Each activity you create must have an entry in AndroidManifest.xml.
 An intent is a type of message that Android components use to communicate with one another.
 An explicit intent specifies the component the intent is targeted at. You create an explicit intent using: Intent intent = new Intent(this, Target.class);.
