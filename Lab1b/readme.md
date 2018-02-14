@@ -1,0 +1,3 @@
+Change of phone orientations.                                                                                                                                                            
+Build an app with two fragments (a headline fragment and a news fragment).                                                                                                               
+The app should display only a single fragment when the phone is held in portray position, and display both fragments at the same time when the phone is held in landscape position.

@@ -1,0 +1,3 @@
+The app has a interface that contains a button and a text input field.                                                                                                                   
+Once the button is pushed, generate an intent that invokes a second activity                                                                                                             
+The second activity will display the input string
