@@ -1,2 +1,3 @@
 # Android_Dev
-Referenced few apps from "Head-First Android Development"
+Few Apps created while learning Android Development                                                                                       
+Includes Lab assignments
