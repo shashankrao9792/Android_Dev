@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.shashank.accelometerandgyroscopesensors.LightActivity">
+
+    <TextView
+        android:id="@+id/light_text1"
+        android:layout_width="346dp"
+        android:layout_height="82dp"
+        android:layout_marginTop="144dp"
+        android:gravity="center"
+        android:text="@string/light_text"
+        app:layout_constraintHorizontal_bias="0.578"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/light_text2"
+        android:layout_width="104dp"
+        android:layout_height="57dp"
+        android:layout_marginTop="8dp"
+        android:textSize="36sp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/light_text1" />
+
+    <TextView
+        android:id="@+id/light_text3"
+        android:layout_width="120dp"
+        android:layout_height="58dp"
+        android:layout_marginTop="8dp"
+        android:gravity="center"
+        android:text="@string/light_text3"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/light_text2"
+        app:layout_constraintVertical_bias="0.012" />
+
+</android.support.constraint.ConstraintLayout>

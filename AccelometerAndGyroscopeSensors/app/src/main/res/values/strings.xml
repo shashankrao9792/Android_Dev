@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AccelometerAndGyroscopeSensors</string>
+    <string name="accel_text">Shake to switch color</string>
+    <string name="gyro_text">Tilt to switch color</string>
+    <string name="light_text">Light Sensor Reading is :</string>
+    <string name="light_text3">SI lux units</string>
+    <string name="pressure_text">Pressure Sensor Reading is :</string>
+    <string name="pressure_text3">hPa (millibars)</string>
+    <string name="humidity_text">Humidity Sensor Reading is :</string>
+    <string name="humidity_text3">percent humidity</string>
+    <string name="proximity_text">Bring hand close to top edge of phone to switch color</string>
+    <string-array name="listOfSensors">
+        <item>Accelometer Sensor</item>
+        <item>Gyrometer Sensor</item>
+        <item>Orientation Sensor</item>
+        <item>Temperature Sensor</item>
+        <item>Light Sensor</item>
+        <item>Pressure Sensor</item>
+        <item>Humidity Sensor</item>
+        <item>Proximity Sensor</item>
+    </string-array>
+</resources>
